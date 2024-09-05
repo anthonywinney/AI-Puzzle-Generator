@@ -27,7 +27,7 @@ The puzzle value and the four characteristics of the puzzle above it are in-hous
 
 __Running the Program__
 
-This C program is designed to be run on Ubuntu.
+This C++ program is designed to be run on Ubuntu.
 Execute __make__ in the command line to compile.
 
 To run, execute:
